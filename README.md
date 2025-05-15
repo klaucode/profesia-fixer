@@ -10,3 +10,5 @@ Some features in the system were either illogical or poorly implemented, and the
 4. Click to your extension "Details" button
 5. Click to "Extension settings", enter API key and save settings
 6. Login to Profesia.sk, navigate to your CV edit form and enjoy new features :-)
+
+![image](https://github.com/user-attachments/assets/78a15f0e-95fe-4833-af7e-e1b7fd0126fd)
