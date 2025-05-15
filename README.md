@@ -7,7 +7,7 @@ Some features in the system were either illogical or poorly implemented, and the
 2. Open Chrome extensions: chrome://extensions/
 3. Enable Developer mode (up-right switch)
 5. Click to button "Load unpacked" and select extension folder (downloaded in home directory)
-![image](https://github.com/user-attachments/assets/ed779ad2-aaa9-4b7b-8d9c-21f298b1e1ee)
+![image](https://github.com/user-attachments/assets/ed779ad2-aaa9-4b7b-8d9c-21f298b1e1ee) 
 (if you want to use AI, you will need OpenAI API and apiKey)
 
 7. Click to your extension "Details" button
