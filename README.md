@@ -12,3 +12,6 @@ Some features in the system were either illogical or poorly implemented, and the
 6. Login to Profesia.sk, navigate to your CV edit form and enjoy new features :-)
 
 ![image](https://github.com/user-attachments/assets/78a15f0e-95fe-4833-af7e-e1b7fd0126fd)
+
+Example of AI feature:
+![image](https://github.com/user-attachments/assets/224ebb98-3d3b-474c-81d0-00c8c60d60dd)
