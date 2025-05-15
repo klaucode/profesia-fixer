@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "ProfesiaBooster",
+  "version": "1.0",
+  "description": "Extension to improve some strange things in profesia.sk",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "action": {
+    "default_title": "Improve Text"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": ["*://*.profesia.sk/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}

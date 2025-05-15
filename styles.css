@@ -1,0 +1,21 @@
+.cv-detail-area {
+  max-width: 100% !important;
+}
+
+#section-skills .cv-detail-section .listing-with-buttons>div:first-child:before {
+  display: none!important;
+}
+
+#section-skills .cv-detail-section .listing-with-buttons>div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+/* Hide stupid modules*/
+.cv-detail header { display: none!important; }
+.cv-detail header+div { display: none!important; }
+.cv-detail #page-footer { display: none!important; }
+.cv-detail .alma-career-footer { display: none!important; }
+
+.cv-detail .listing-with-buttons article>.row {min-height: initial!important;padding-top:0!important;padding-bottom:0!important;}
+.cv-detail .listing-with-buttons .skill-item {display: flex;align-items:center;} 
